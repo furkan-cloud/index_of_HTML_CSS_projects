@@ -15,6 +15,12 @@
     </thead>
     <tbody>
         <tr>
+            <td>Netflix Survey Form</td>
+            <td><a href="https://github.com/furkan-cloud/001-survey-form" target="_blank">Repo details</a></td>
+            <td><a href="https://furkan-cloud.github.io/001-survey-form/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/netflixsurveyform.gif" alt="html" height=130></td> 
+        </tr>
+        <tr>
             <td>Google Landing Page</td>
             <td><a href="https://github.com/furkan-cloud/002-Google-Landing-Page" target="_blank">Repo details</a></td>
             <td><a href="https://furkan-cloud.github.io/002-Google-Landing-Page/" target="_blank">Click here to see the project</a></td>
@@ -42,7 +48,7 @@
             <td>Checkout Form</td>
             <td><a href="https://github.com/furkan-cloud/003-Checkout-Form-Teamwork" target="_blank">Repo details</a></td>
             <td><a href="https://furkan-cloud.github.io/003-Checkout-Form-Teamwork/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="./images/checkoutform.gif" alt="html" height=130></td> 
+            <td><img style="width:500px;" src="./gifs/checkoutform.gif" alt="html" height=130></td> 
         </tr>
 </tbody>
 </table>
